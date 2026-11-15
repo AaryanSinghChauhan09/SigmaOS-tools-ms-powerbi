@@ -1,0 +1,6 @@
+[package]
+name = "tools-ms-powerbi"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS Microsoft Power BI dataset and DAX measure bridge"
+license = "GPL-3.0-or-later"
