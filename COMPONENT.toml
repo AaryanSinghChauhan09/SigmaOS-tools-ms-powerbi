@@ -3,7 +3,7 @@ name = "SigmaOS-tools-ms-powerbi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-ms-powerbi component"
+description = "tools ms powerbi component"
 upstream = []
 
 [contract]
