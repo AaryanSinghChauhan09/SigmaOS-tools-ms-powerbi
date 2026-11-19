@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// Power BI dataset model and DAX measure registry for SigmaOS BI integration.
 use std::collections::HashMap;
 
